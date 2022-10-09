@@ -1,0 +1,1 @@
+export const selectedValue = ((state) => state.app.value);
